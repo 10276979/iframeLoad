@@ -15,47 +15,11 @@
             .menu ul li { height: 50px; background: #ff6a00; border-bottom: 1px solid #ffffff; }
     </style>
     <script type="text/javascript">
-        ; (function () {
-            var ifrLoad = function (obj, html, call) {
-                var that = this;
-                that.id = obj.id;
-                that.tarName = obj.tarName;
-                that.loadId = obj.loadId;
-                that.clickElement = obj.clickElement;
-
-
-                $("#" + that.id).parent().append(html);
-                that.iframeInit();
-
-
-                $("a[target='Iframe1']").click(function () {
-                    that.iframeInit();
-                });
-
-            }
-
-            ifrLoad.prototype = {
-                iframeInit: function () {
-                    $("#main_i").unbind("load");
-                    $("#abc").show();
-
-                    $("#main_i").bind("load", function () {
-                        $("#abc").hide();
-                    });
-                }
-            }
-
-            window.iframeLoad = ifrLoad;
-        })();
 
         $(function () {
-
-
-
             new iframeLoad({ "id": "main_i", "tarName": "Iframe1", "loadId": "abc", "clickElement": ["a"] }, "<div id=\"abc\" style=\"position: absolute; top: 0; left: 0; background: #0094ff; width: 100%; height: 100%;\">正在加载</div>", function () {
 
             });
-
 
         });
 

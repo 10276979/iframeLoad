@@ -3,3 +3,8 @@ E:\iframeLoad\iframeLoad\bin\iframeLoad.pdb
 E:\iframeLoad\iframeLoad\obj\Debug\iframeLoad.csprojResolveAssemblyReference.cache
 E:\iframeLoad\iframeLoad\obj\Debug\iframeLoad.dll
 E:\iframeLoad\iframeLoad\obj\Debug\iframeLoad.pdb
+E:\iframeLoad\iframeLoad\iframeLoad\bin\iframeLoad.dll
+E:\iframeLoad\iframeLoad\iframeLoad\bin\iframeLoad.pdb
+E:\iframeLoad\iframeLoad\iframeLoad\obj\Debug\iframeLoad.csprojResolveAssemblyReference.cache
+E:\iframeLoad\iframeLoad\iframeLoad\obj\Debug\iframeLoad.dll
+E:\iframeLoad\iframeLoad\iframeLoad\obj\Debug\iframeLoad.pdb
