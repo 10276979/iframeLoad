@@ -49,7 +49,6 @@
     <Reference Include="System.Web.Mobile" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HtmlPage2.html" />
     <Content Include="res\js\jquery-1.11.1.min.js" />
     <Content Include="res\page\test1.aspx" />
     <Content Include="res\page\test2.aspx" />
