@@ -33,7 +33,7 @@
         <div id="iframeTest">
             <div class="menu">
                 <ul>
-                    <li><a href="http://www.baidu.com" target="Iframe1">菜单11</a></li>
+                    <li><a href="http://www.baidu.com" target="Iframe1">菜单1</a></li>
                     <li><a href="http://www.163.com" target="Iframe1">菜单1</a></li>
                     <li><a href="http://www.17sucai.com/" target="Iframe1">菜单1</a></li>
                     <li><a href="http://www.whycss.com/" target="Iframe1">菜单1</a></li>
